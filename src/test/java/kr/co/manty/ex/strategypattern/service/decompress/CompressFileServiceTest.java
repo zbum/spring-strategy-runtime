@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class UncompressServiceTest {
+public class CompressFileServiceTest {
     
     @Autowired
     private CompressFileServiceLocator serviceLocator;
